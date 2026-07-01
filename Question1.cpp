@@ -4,6 +4,6 @@ using namespace std;
 
 int add(int a, int b)
 {
-	// complete the integer addition here and return the integer value
-	
+	int result = a+b;
+	return result;
 }
